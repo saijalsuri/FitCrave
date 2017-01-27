@@ -1,0 +1,45 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        tools:context="com.apps.saijestudio.fitcrave.fragments.HomeFragment"
+        android:clickable="true"
+        android:id="@+id/search_edit_frame"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+    <TextView android:id="@+id/fraginfo" android:text="@string/hello_world" android:layout_width="match_parent"
+        android:layout_height="0dp" android:layout_weight="0" android:layout_marginTop="@dimen/abc_action_bar_default_height_material"/>
+
+    <ImageView
+        android:contentDescription="@string/search_image"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3"
+        android:src="@drawable/search_text"
+        android:id="@+id/search_text_img"
+        android:layout_marginTop="43dp" />
+
+    <android.support.v7.widget.SearchView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:id="@+id/search_edittext"
+        android:inputType="textAutoComplete"
+        android:clickable="true"
+        android:layout_weight="1"
+        android:layout_gravity="center_horizontal"
+        />
+
+        <ImageView
+            android:contentDescription="@string/cupcake_logo"
+            android:src="@drawable/fitcrave_cupcake_tiny"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:id="@+id/cupcake_logo"
+            android:layout_gravity="center"/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"/>
+
+</LinearLayout>

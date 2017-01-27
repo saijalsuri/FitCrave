@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.apps.saijestudio.fitcrave" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/fitcrave_cupcake"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".activities.LaunchSplashScreenActivity"
+            android:label="FitCrave"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activities.MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.app.default_searchable"
+                android:value=".activities.SearchableActivity" />
+        </activity>
+        <activity
+            android:name=".activities.ResultsActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".activities.SearchableActivity"
+            android:label="@string/title_activity_searchable" >
+            <intent-filter>
+                <action android:name="android.intent.action.SEARCH" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <!-- This metadata entry provides further configuration details for searches -->
+            <!-- that are handled by this activity. -->
+
+            <meta-data
+                android:name="android.app.searchable"
+                android:resource="@xml/searchable" />
+        </activity>
+        <activity
+            android:name=".activities.ResultItemDetailWebActivity"
+            android:label="@string/title_activity_result_item_detail_web_view" >
+        </activity>
+
+    </application>
+
+</manifest>

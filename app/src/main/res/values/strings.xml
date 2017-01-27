@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">FitCrave</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home_fragment">HomeFragment</string>
+    <string name="title_activity_profile_fragment">ProfileFragment</string>
+    <string name="title_activity_feed_fragment">FeedFragment</string>
+    <string name="searchicon">searchicon</string>
+    <string name="feedicon">feedicon</string>
+    <string name="settingsicon">settingsicon</string>
+    <string name="profileicon">profileicon</string>
+    <string name="notificationicon">notificationicon</string>
+    <string name="backicon">backicon</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_results">ResultsActivity</string>
+    <string name="launcherscreen">Launcherscreen</string>
+    <string name="search_image">searchimage</string>
+    <string name="searchbutton">OMNOMNOM!  </string>
+    <string name="search_hint">Chocolate</string>
+    <string name="cupcake_logo">Cupcake Logo</string>
+
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="title_activity_searchable">SearchableActivity</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="title_activity_result_item_detail_web_view">ResultItemDetailWebView</string>
+
+
+</resources>

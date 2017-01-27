@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\pre-dexed\debug\classes-b3952ad0bb2b2a0d32a641a264d47d8c2b9ae731.jar" />
+    </item>
+    <item
+        jar="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-892a1bf8e37f788fed35d7ad74655b3717e26bf8.jar" />
+    </item>
+    <item
+        jar="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\pre-dexed\debug\classes-db8113d7fe03a661f6ca68978cb1978d9441d059.jar" />
+    </item>
+    <item
+        jar="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\pre-dexed\debug\classes-f1c211e61579ec7f2d5c6169de852d6101fb7286.jar" />
+    </item>
+    <item
+        jar="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\pre-dexed\debug\classes-855ea50bb1ff932d1b037aa5e4a1dc261963bffd.jar" />
+    </item>
+    <item
+        jar="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\pre-dexed\debug\classes-b1e13722c3b7c9ea4d0b4dd9962602269de372bd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Saijal\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.1.3\f6c3aed1cdfa21b5c1737c915186ea93a95a58bd\jackson-core-2.1.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\pre-dexed\debug\jackson-core-2.1.3-3e813b02ad3c65782cd5ddf6d988bcba2f969dfc.jar" />
+    </item>
+    <item
+        jar="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\pre-dexed\debug\classes-3250f3892f8cdcc0d5702c7e5662f64d5dced790.jar" />
+    </item>
+    <item
+        jar="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\pre-dexed\debug\classes-b3c1d5a8b6e0dd4abdea9901251b7589257117f8.jar" />
+    </item>
+    <item
+        jar="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-58450c0c12a65d429dbae775dd1d34d82edd7acb.jar" />
+    </item>
+    <item
+        jar="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\pre-dexed\debug\classes-91445353bbc65bda58b7e05c6dea28b6fbb5f12d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Saijal\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client\1.20.0\d3e66209ae9e749b2d6833761e7885f60f285564\google-api-client-1.20.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d3e66209ae9e749b2d6833761e7885f60f285564">
+        <dex dex="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\pre-dexed\debug\google-api-client-1.20.0-64302fe73c04038a074b6fd106695aa4a60e0913.jar" />
+    </item>
+    <item
+        jar="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.0\libs\internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5a8e01742aee890c56fe638ea7c921b91a3fdc62">
+        <dex dex="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.0-3cebfc39f1e4c709dc3870a39022b24fe67279d3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Saijal\.gradle\caches\modules-2\files-2.1\com.google.guava\guava-jdk5\13.0\381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7\guava-jdk5-13.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7">
+        <dex dex="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\pre-dexed\debug\guava-jdk5-13.0-f0bccef81be57e4789a7ea34ab3717898830c1cf.jar" />
+    </item>
+    <item
+        jar="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\pre-dexed\debug\classes-a06c1290dc8f022f4d265499b88d1b4a074bb7cb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Saijal\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client\1.20.0\93d82db2bca534960253f43424b2ba9d7638b4d2\google-http-client-1.20.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="93d82db2bca534960253f43424b2ba9d7638b4d2">
+        <dex dex="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\pre-dexed\debug\google-http-client-1.20.0-cccea9d9f95fab9adc4297f47a4c156b664b35a7.jar" />
+    </item>
+    <item
+        jar="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\pre-dexed\debug\classes-d4c1da2c6855ef6b148fa533e74d0efe14d3fdc7.jar" />
+    </item>
+    <item
+        jar="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\pre-dexed\debug\classes-ada420beb5a4f1f20b966236e81194cac8ce3a67.jar" />
+    </item>
+    <item
+        jar="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\pre-dexed\debug\classes-a4cc1d45d3dccab4d74ce9cf0367e112eb09d7d2.jar" />
+    </item>
+    <item
+        jar="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\pre-dexed\debug\classes-f038e2b383029cfa43ae3b3cfb3ecd9b03dbda5a.jar" />
+    </item>
+    <item
+        jar="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\pre-dexed\debug\classes-ef335bdca0355e7ba857ee92eff17f9383b5eb5e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Saijal\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-jackson2\1.20.0\2408070b2abec043624d35b35e30450f1b663858\google-http-client-jackson2-1.20.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2408070b2abec043624d35b35e30450f1b663858">
+        <dex dex="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\pre-dexed\debug\google-http-client-jackson2-1.20.0-d4b5ede5b17b8ad255195f4e8a78d1e90366fdc3.jar" />
+    </item>
+    <item
+        jar="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\pre-dexed\debug\classes-c16d7d8d6b96684eacaeb26d8e72d3b4787d90dc.jar" />
+    </item>
+    <item
+        jar="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0c0c19759e5868604a3b4c2c0074ee9404d73c76">
+        <dex dex="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\pre-dexed\debug\classes-e226cd0d66ace343e020267c330a640a39976bff.jar" />
+    </item>
+    <item
+        jar="C:\Users\Saijal\.gradle\caches\modules-2\files-2.1\com.google.oauth-client\google-oauth-client\1.20.0\1d086ac5756475ddf451af2e2df6e288d18608ca\google-oauth-client-1.20.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1d086ac5756475ddf451af2e2df6e288d18608ca">
+        <dex dex="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\pre-dexed\debug\google-oauth-client-1.20.0-0728668e5f8bd8b57a8592035a3af6198825d550.jar" />
+    </item>
+    <item
+        jar="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\pre-dexed\debug\classes-f0f4a539dd1595a2394ad85853809c7322f06ddd.jar" />
+    </item>
+    <item
+        jar="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\pre-dexed\debug\classes-4b6b8be4724053eb40d46231bb0bf9f91155f36b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Saijal\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\1.3.9\40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf\jsr305-1.3.9.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\pre-dexed\debug\jsr305-1.3.9-939a01d664f73f114a3ea443a87f03d552f2cd5b.jar" />
+    </item>
+    <item
+        jar="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\pre-dexed\debug\classes-a670c6fb431e463249b1374159a6ca3d986ca7fb.jar" />
+    </item>
+    <item
+        jar="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\pre-dexed\debug\classes-0ab0d2f2c90f48d8cd3b11452e27d206859472a1.jar" />
+    </item>
+    <item
+        jar="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\pre-dexed\debug\classes-ae774644e21ac0d9a89a891c72c903ea761d42a8.jar" />
+    </item>
+    <item
+        jar="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\pre-dexed\debug\classes-3f54165231b1a2e292fe2c4054416827bec720a5.jar" />
+    </item>
+    <item
+        jar="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\pre-dexed\debug\classes-e184f25793e8792338e396aa71a1e15cff347a63.jar" />
+    </item>
+    <item
+        jar="C:\Users\Saijal\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-04135afb08e17229a95049eb2c32acd7fd2798e6.jar" />
+    </item>
+    <item
+        jar="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\pre-dexed\debug\classes-f667f6187b297e393bc66d822e04dbeb074a1eff.jar" />
+    </item>
+    <item
+        jar="C:\Users\Saijal\.gradle\caches\modules-2\files-2.1\com.google.apis\google-api-services-customsearch\v1-rev46-1.20.0\443a8c2dd62ad521b41b6c82ae3a4024c8a68f0\google-api-services-customsearch-v1-rev46-1.20.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0443a8c2dd62ad521b41b6c82ae3a4024c8a68f0">
+        <dex dex="C:\Saijal\Saijal\career\MyApps\FitCrave\FitCrave\app\build\intermediates\pre-dexed\debug\google-api-services-customsearch-v1-rev46-1.20.0-2cc0716d98f66b61e5fea10b3ac139792ff411d2.jar" />
+    </item>
+
+</items>

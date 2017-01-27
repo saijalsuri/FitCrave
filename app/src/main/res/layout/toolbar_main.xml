@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/toolbar_frame"
+    android:background="#58D1BD">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:id="@+id/linearLayout">
+
+        <ImageButton
+            android:contentDescription="@string/searchicon"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/search"
+            android:src="@drawable/ic_action_search"
+            android:background="#58D1BD"/>
+        <ImageButton
+            android:contentDescription="@string/feedicon"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/feed"
+            android:src="@drawable/ic_av_my_feed"
+            android:background="#58D1BD"/>
+        <ImageButton
+            android:contentDescription="@string/profileicon"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/profile"
+            android:src="@drawable/ic_action_profile"
+            android:background="#58D1BD"/>
+        <ImageButton
+            android:contentDescription="@string/notificationicon"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/notification"
+            android:src="@drawable/ic_notification_sms_failed"
+            android:background="#58D1BD"/>
+        <ImageButton
+            android:contentDescription="@string/settingsicon"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/settings"
+            android:src="@drawable/ic_action_settings"
+            android:background="#58D1BD"/>
+
+
+    </LinearLayout>
+
+</android.support.v7.widget.Toolbar>

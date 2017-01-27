@@ -1,0 +1,38 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.apps.saijestudio.fitcrave.activities.ResultItemDetailWebActivity"
+    android:background="#E8F3F1"
+    android:orientation="vertical"
+    android:gravity="center_horizontal">
+    <include
+        android:id="@+id/toolbar_results"
+        layout="@layout/toolbar_results"/>
+    <TextView android:id="@+id/title" android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:background="#FFFFFF"
+        android:textColor="#58D1BD"
+        android:gravity="center_horizontal"
+        android:textStyle="bold"/>
+
+    <TextView android:id="@+id/link" android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="12sp"
+        android:background="#FFFFFF"
+        android:textColor="#58D1BD"
+        android:gravity="center_horizontal"/>
+
+
+    <ProgressBar
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/progressBar" />
+
+    <WebView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/webview"/>
+
+</LinearLayout>
